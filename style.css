@@ -10,6 +10,12 @@
 nav{
     background-color:gray;
     padding: 20px;
+body {
+  background-color: lightgreen;
+  color: darkred;
+  font-size: 24px;
+}
+
 }
 .applelogo{
     width: 30px;
