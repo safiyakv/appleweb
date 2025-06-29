@@ -1,6 +1,17 @@
 *{
     margin: 0;
 }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background-color: #fff;
+  color: #111;
+}
+
 .apple
 {
 
@@ -87,7 +98,7 @@ ul {
     font-size: 20px;
 }
 .second{
-    font-size: 5opx;
+    font-size: 50px;
 }
 .whole{
     display: flex;
@@ -144,3 +155,7 @@ ul {
     font-family:'SF Pro Display, SF Pro Icons, Helvetica Neue', Helvetica, Arial, sans-serif ;
     margin-top: 35px;
 }
+nav {
+    margin-bottom: 20px;
+}
+
